@@ -4,7 +4,7 @@ This is a small server that works with the Atom package [`rnn-writer`](https://g
 
 More accurately: it's a set of shims laid beneath Justin Johnson's indispensable `torch-rnn` package.
 
-I explain what this project is all about [here](https://www.robinsloan.com/note/writing-with-the-machine); it's probably worth reading that before continuing.
+I explain what this project is all about [here](https://www.robinsloan.com/notes/writing-with-the-machine/); it's probably worth reading that before continuing.
 
 ### Installation
 
